@@ -48,12 +48,6 @@ Transforming raw data into actionable insights. Passionate about leveraging mach
 When I'm not wrangling data or building models, you'll find me:
 
 - 🎹 Mixing music using FL Studio and Reaper
-- 🤖 Exploring new AI applications for solving everyday problems
-- 🎮 Gaming to unwind and recharge
-- 🧠 Constantly learning and expanding my skill set
-
-## 📫 Let's Connect
-
 <p align="center">
   <a href="https://www.facebook.com/zodra.hidramatic/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
   <p align="center">
@@ -62,7 +56,13 @@ When I'm not wrangling data or building models, you'll find me:
   </a>
   <br>
   <em>↑ Click to watch my video ↑</em>
-  </p>
+</p>
+- 🤖 Exploring new AI applications for solving everyday problems
+- 🎮 Gaming to unwind and recharge
+- 🧠 Constantly learning and expanding my skill set
+
+## 📫 Let's Connect
+
 
   <a href="https://linkedin.com/in/thethien8a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
