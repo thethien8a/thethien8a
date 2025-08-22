@@ -48,7 +48,7 @@ Transforming raw data into actionable insights. Passionate about leveraging mach
 
 When I'm not wrangling data or building models, you'll find me:
 
-- 🎹 Creating music using FL Studio and Reaper
+- 🎹 Mixing music using FL Studio and Reaper
 - 🤖 Exploring new AI applications for solving everyday problems
 - 🎮 Gaming to unwind and recharge
 - 🧠 Constantly learning and expanding my skill set
