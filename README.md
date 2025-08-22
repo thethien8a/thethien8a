@@ -7,7 +7,11 @@
 Transforming raw data into actionable insights. Passionate about leveraging machine learning to solve real-world problems.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZmZDlmZGI0MTY3NTQzZGEwZDJkOTk0ZjBlZTM1NzE1OTBiMmE5NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" width="350">
+  <a href="https://www.youtube.com/watch?v=FD3IpaEGvFY&t=3s" target="_blank">
+    <img src="https://img.youtube.com/vi/FD3IpaEGvFY/0.jpg" width="450" alt="Click to watch on YouTube">
+  </a>
+  <br>
+  <em>↑ Click to watch my video ↑</em>
 </p>
 
 ## 🔧 Technologies & Tools
