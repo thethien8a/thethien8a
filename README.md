@@ -1,7 +1,6 @@
 # Hi there, I'm Thien 👋
 
 ![Profile Views](https://komarev.com/ghpvc/?username=thethien8a&color=0e75b6&style=flat)
-![Last Updated](https://img.shields.io/badge/Last%20Updated-August%2022%2C%202025-brightgreen)
 
 ## 📊 Data Analyst & AI Enthusiast
 
