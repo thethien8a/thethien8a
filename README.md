@@ -59,7 +59,7 @@ When I'm not wrangling data or building models, you'll find me:
     <img src="https://img.youtube.com/vi/FD3IpaEGvFY/0.jpg" width="450" alt="Click to watch my music mix on YouTube" style="border-radius:10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);">
   </a>
   <br>
-  <em>👆 Click to watch my music mix on YouTube 👆</em>
+  <em>👆 Click to watch my music mashup on YouTube (This song mixing badly) 👆</em>
 </p>
 
 ## 📫 Let's Connect
