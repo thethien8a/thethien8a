@@ -52,7 +52,7 @@ When I'm not wrangling data or building models, you'll find me:
 - 🎮 Gaming to unwind and recharge
 - 🧠 Constantly learning and expanding my skill set
 
-### 🎵 Check out my music mixing!
+### 🎵 Check out my mashup song!
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=FD3IpaEGvFY&t=3s" target="_blank">
