@@ -46,10 +46,4 @@ When I'm not wrangling data or building models, you'll find me:
   <a href="https://www.facebook.com/zodra.hidramatic/" target="_blank"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"></a>
 </p>
 
----
 
-<p align="center">
-  <img src="https://github.com/thethien8a/thethien8a/blob/main/assets/wave.gif?raw=true" width="100">
-  <br>
-  <em>Thanks for stopping by! Feel free to check out my repositories and connect with me.</em>
-</p>
