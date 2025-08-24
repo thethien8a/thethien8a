@@ -10,13 +10,6 @@ Transforming raw data into actionable insights. Passionate about leveraging mach
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZmZDlmZGI0MTY3NTQzZGEwZDJkOTk0ZjBlZTM1NzE1OTBiMmE5NiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/SWoSkN6DxTszqIKEqv/giphy.gif" width="350">
 </p>
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=thethien8a&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thethien8a&layout=compact&langs_count=8&theme=radical"/>
-</p>
-
 ## 🎵 Beyond Coding
 
 When I'm not wrangling data or building models, you'll find me:
