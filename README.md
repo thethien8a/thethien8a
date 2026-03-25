@@ -61,14 +61,6 @@ hobbies:
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy-tawny.vercel.app/?username=thethien8a&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-</div>
-
----
-
 ## 🎵 Beyond Coding
 
 <table align="center">
