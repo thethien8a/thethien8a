@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I%27m%20Thien!%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Analyst%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Mixing%20Engineer&descSize=18&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%2C%20I%27m%20Thien!%20%F0%9F%91%8B&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Data%20Engineer%20%C2%B7%20AI%20Enthusiast%20%C2%B7%20Vocal%20Mixing%20Engineer&descSize=18&descAlignY=55" width="100%" />
 
 <div align="center">
 
@@ -7,7 +7,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Transforming+raw+data+into+insights+%F0%9F%93%8A;Building+ML+solutions+for+real+problems+%F0%9F%A4%96;Music+producer+by+night+%F0%9F%8E%B5;Always+learning%2C+always+growing+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Transforming+raw+data+into+pipelines+%F0%9F%9A%B0;Building+ML+solutions+for+real+problems+%F0%9F%A4%96;Vocal+mixing+engineer+by+night+%F0%9F%8E%A4;Always+learning%2C+always+growing+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <br/>
 
@@ -23,17 +23,17 @@
 
 ```yaml
 name: Thien
-role: Data Analyst & AI Enthusiast
+role: Data Engineer & AI Enthusiast
 location: Vietnam 🇻🇳
 focus:
-  - Data Analysis & Visualization
+  - Data Engineering & Pipelines
   - Machine Learning & AI
-  - Music Production
+  - Vocal Mixing Engineering
 currently_learning:
   - Deep Learning & NLP
   - MLOps & Model Deployment
 hobbies:
-  - 🎵 Making music in FL Studio & Reaper
+  - 🎤 Vocal mixing in FL Studio & Reaper
   - 🎮 Gaming to unwind
   - 📚 Lifelong learning
 ```
@@ -67,7 +67,7 @@ hobbies:
   <tr>
     <td align="center" width="200">
       <img src="https://img.icons8.com/color/48/fl-studio.png" width="40" /><br />
-      <b>Music Production</b><br />
+      <b>Vocal Mixing Engineering</b><br />
       <sub>FL Studio & Reaper</sub>
     </td>
     <td align="center" width="200">
