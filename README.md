@@ -3,7 +3,7 @@
 <div align="center">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=thethien8a&color=6C63FF&style=for-the-badge)](https://github.com/thethien8a)
-[![GitHub followers](https://img.shields.io/github/followers/thethien8a?style=for-the-badge&color=6C63FF&logo=github)](https://github.com/thethien8a?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/thethien8a?style=for-the-badge&color=6C63FF&logo=github&logoColor=white)](https://github.com/thethien8a?tab=followers)
 
 <br/>
 
@@ -45,18 +45,18 @@ hobbies:
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=thethien8a&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=thethien8a&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thethien8a&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&cache_seconds=3600" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=thethien8a&theme=tokyonight&hide_border=true&border_radius=12&background=0D1117&ring=6C63FF&fire=6C63FF&currStreakLabel=6C63FF&cache_seconds=3600" width="48%" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=thethien8a&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thethien8a&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&cache_seconds=3600" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thethien8a&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&border_radius=12" width="96%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thethien8a&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&border_radius=12&cache_seconds=3600" width="96%" />
 </div>
 
 ---
