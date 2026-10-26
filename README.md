@@ -53,11 +53,6 @@ hobbies:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thethien8a&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&bg_color=0D1117&title_color=6C63FF&cache_seconds=3600" width="48%" />
 </div>
 
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=thethien8a&bg_color=0D1117&color=6C63FF&line=6C63FF&point=FFFFFF&area=true&area_color=6C63FF&hide_border=true&border_radius=12&cache_seconds=3600" width="96%" />
-</div>
 
 ---
 
